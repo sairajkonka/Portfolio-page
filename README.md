@@ -2,10 +2,10 @@
 This is a portfolio webpage created using html and css.
 Access the webpage here (https://sairajkonka.github.io/Portfolio-page/)
 ## Contents
--[Challenge](#Challenge)
--[Built with](#Built_with)
--[Project](#Project)
--[Needed advancements](#Needed_advancements)
+### [Challenge](#Challenge)
+### [Built with](#Built_with)
+### [Project](#Project)
+### [Needed advancements](#Needed_advancements)
 
 ## Challenge
     Challenge was to create a webpage of one's portfolio with a friendly and good looking interface which showcases 
