@@ -17,7 +17,7 @@ Access the webpage here (https://sairajkonka.github.io/Portfolio-page/)
  
 ## Project
     Project showcases one's portfolio which is achieved by using the tags, attributes and properties of HTML5 and CSS.
-    Some of the tags are different font-size tags like h1 to h6 etc., imgtags, DOCTYPE, header, footer, dialogue,'
+    Some of the tags are different font-size tags like h1 to h6 etc., imgtags, DOCTYPE, header, footer, buttons, dialogue,'
     different colour properties like color,background-color, position properties like sticky, static etc...
     Many classes, id's, imports, references are also used.
     
